@@ -1,2 +1,2 @@
 # TimCoRetailManager
-A etail Management System Course B Tim Corey
+A retail Management System Course By Tim Corey
